@@ -59,6 +59,6 @@ Tab:AddButton({
 Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
-loadstring(game: HttpGet("https://github.com/YimGg992/Yim-HubZ2/edit/main/README.md"))()
+loadstring(game: HttpGet("https://raw.githubusercontent.com/YimGg992/Yim-HubZ2/refs/heads/main/README.md"))()
 
 
